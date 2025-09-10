@@ -1,7 +1,9 @@
 # 💫 About Me:
-> 🌍 Based in Addis Ababa, Ethiopia.  <br>> 🎓 Software Engineering student at AASTU and a Certified Full-Stack Developer.  <br>> 💼 Experienced in building end-to-end web applications using Django, React, Next.js, Node.js, and PostgreSQL.  <br>> 🚀 Driven by curiosity, creativity, and a love for solving real-world problems with code.  <br>> 📫 Reach me at: [mesudmelaku25@gmail.com](mailto:mesudmelaku25@gmail.com)<br>
+> 🌍 Based in Addis Ababa, Ethiopia.  <br>> 🎓 Software Engineering student at AASTU and a Certified Full-Stack Developer.  <br>> 🚀 Driven by curiosity, creativity, and a love for solving real-world problems with code.  <br>> 📫 Reach me at: [mesudmelaku25@gmail.com](mailto:mesudmelaku25@gmail.com)<br>
 
----
+<div align="center" style="display: flex; gap: 24px; justify-content: center;">
+  <img src="https://komarev.com/ghpvc/?username=ellay21" alt="Profile views" height="28" />
+</div>
 
 <table><tr><td align="center">
 
