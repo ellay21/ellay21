@@ -1,3 +1,4 @@
+# 👋 **Hello there, I'm Mesud Melaku(Elay) 👨‍💻 ***a Full-Stack Developer*****
 # 💫 About Me:
 > 🌍 Based in Addis Ababa, Ethiopia.  <br>> 🎓 Software Engineering student at AASTU and a Certified Full-Stack Developer.  <br>> 🚀 Driven by curiosity, creativity, and a love for solving real-world problems with code.  <br>> 📫 Reach me at: [mesudmelaku25@gmail.com](mailto:mesudmelaku25@gmail.com)<br>
 
