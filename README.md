@@ -1,7 +1,6 @@
-# 👋 **Hi there, I'm Mesud Melaku 👨‍💻 ***a Full-Stack Developer*****
+# 👋 **Hi there, I'm Mesud 👨‍💻 ***a Full-Stack Developer*****
 # 💫 About Me:
-> 🌍 Based in Addis Ababa, Ethiopia.  <br>> 🎓 Software Engineering student at AASTU and a Certified Full-Stack Developer.  <br>> 🚀 Driven by curiosity, creativity, and a love for solving real-world problems with code.  <br>> 📫 Reach me at: [mesudmelaku25@gmail.com](mailto:mesudmelaku25@gmail.com)<br>
-
+> 🌍 Based in Addis Ababa, Ethiopia.  <br>> 🎓 Software Engineering student at AASTU and a Certified Full-Stack Developer.  <br>> 🚀 Driven by curiosity, creativity, and a love for solving real-world problems with code.  
 <div align="center" style="display: flex; gap: 24px; justify-content: center;">
   <img src="https://komarev.com/ghpvc/?username=ellay21" alt="Profile views" height="28" />
 </div>
@@ -102,12 +101,6 @@
     </td>
   </tr>
 </table>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ellay21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ellay21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ellay21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 ## 🏆 Competitive Programming
