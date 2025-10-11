@@ -102,15 +102,6 @@
   </tr>
 </table>
 ---
-
-## 🏆 Competitive Programming
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ellay27&theme=dark&force_username=true&show_icons=true" alt="Codeforces Stats" height="180" />
-  <img src="https://leetcard.jacoblin.cool/ellay25?theme=dark&font=Syne%20Mono&ext=heatmap&border_radius=20&height=180" alt="LeetCode Stats" height="180" />
-</div>
-
----
 ## 🤝 Connect with Me
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mesudmelaku25@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mesud-melaku-973908330) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Justelay25)
 [![](https://visitcount.itsvg.in/api?id=ellay21&icon=0&color=0)](https://visitcount.itsvg.in)
