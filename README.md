@@ -1,9 +1,24 @@
-# 👋 **Hi there, I'm Mesud 👨‍💻 ***a Full-Stack Developer*****
-# 💫 About Me:
-> 🌍 Based in Addis Ababa, Ethiopia.  <br>> 🎓 Software Engineering student at AASTU and a Certified Full-Stack Developer.  <br>> 🚀 Driven by curiosity, creativity, and a love for solving real-world problems with code.  
+# Hi there, I'm Mesud 👋
 <div align="center" style="display: flex; gap: 24px; justify-content: center;">
   <img src="https://komarev.com/ghpvc/?username=ellay21" alt="Profile views" height="28" />
 </div>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Problem+Solver+%26+Innovator;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+## 🚀 About Me
+
+I'm a passionate Full Stack Developer who believes in building solutions that make a difference. I thrive on turning complex problems into elegant, user-friendly applications.
+
+- 🌱 Currently mastering Large Language Models (LLMs) and modern Deep Learning architectures
+- 💡 Focused on building projects that solve **real-world problems**
+- 🤝 Open to collaborating on **open-source projects**
+- 🎯 Always learning, always growing
+- 💬 Ask me about **Microservices, distributed backend systems, and productionizing AI models**
+
+> _"If you do what you studied, you will survive. But if you do what you haven't studied, you will become a leader."_
 
 <table><tr><td align="center">
 
