@@ -53,7 +53,6 @@ I'm a passionate **Full Stack Developer** focused on building resilient, scalabl
         <img src="https://img.shields.io/badge/React-06B6D4?style=for-the-badge&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -62,7 +61,7 @@ I'm a passionate **Full Stack Developer** focused on building resilient, scalabl
         <img src="https://img.shields.io/badge/Gin-008080?style=for-the-badge&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
       </td>
     </tr>
     <tr>
