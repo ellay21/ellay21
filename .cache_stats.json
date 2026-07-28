@@ -1,0 +1,213 @@
+{
+  "code_frequency": {
+    "Lovelace-Coders": {
+      "add": 21026,
+      "del": 7871
+    },
+    "motion": {
+      "add": 8230,
+      "del": 1
+    },
+    "old-leetcode": {
+      "add": 43,
+      "del": 0
+    },
+    "search-engine": {
+      "add": 253,
+      "del": 45
+    },
+    "month-1": {
+      "add": 64,
+      "del": 0
+    },
+    "HyperSearch": {
+      "add": 136,
+      "del": 5
+    },
+    "LJFusion": {
+      "add": 28286,
+      "del": 23
+    },
+    "frontend-playground": {
+      "add": 292,
+      "del": 47
+    },
+    "social-media-api": {
+      "add": 849648,
+      "del": 848796
+    },
+    "Online-Examination-System-with-Client-Server-Architecture": {
+      "add": 4720,
+      "del": 0
+    },
+    "Notepad": {
+      "add": 498,
+      "del": 1
+    },
+    "Medihelp-Frontend": {
+      "add": 22896,
+      "del": 4507
+    },
+    "A2sv": {
+      "add": 31242,
+      "del": 2574
+    },
+    "MediHelp-Backend": {
+      "add": 9878,
+      "del": 2130
+    },
+    "tksha-og": {
+      "add": 3035,
+      "del": 426
+    },
+    "MediFront": {
+      "add": 18478,
+      "del": 283
+    },
+    "GEBEYA-ONLINE": {
+      "add": 3125,
+      "del": 150
+    },
+    "Tksha": {
+      "add": 57298,
+      "del": 52515
+    },
+    "alx_be_python": {
+      "add": 539,
+      "del": 60
+    },
+    "Security": {
+      "add": 1,
+      "del": 0
+    },
+    "atlas2": {
+      "add": 6,
+      "del": 0
+    },
+    "DB": {
+      "add": 122,
+      "del": 0
+    },
+    "A2SV-Project-Phase-Backend-Track-GO": {
+      "add": 3875,
+      "del": 196
+    },
+    "Cinephile": {
+      "add": 8876,
+      "del": 32
+    },
+    "Alx_DjangoLearnLab": {
+      "add": 4901,
+      "del": 674
+    },
+    "Cinephile-backend": {
+      "add": 5147,
+      "del": 0
+    },
+    "Medihelp-Redesigned": {
+      "add": 2766,
+      "del": 138
+    },
+    "NovaRender": {
+      "add": 0,
+      "del": 0
+    },
+    "Portfolio": {
+      "add": 12777,
+      "del": 1635
+    },
+    "blog-api-clean-architecture": {
+      "add": 7113,
+      "del": 1615
+    },
+    "Unison": {
+      "add": 11558,
+      "del": 304
+    },
+    "Retail-website": {
+      "add": 3052,
+      "del": 1998
+    },
+    "unibazzar-backend": {
+      "add": 12056,
+      "del": 1112
+    },
+    "TradeFlow-MicroSim": {
+      "add": 15733,
+      "del": 10375
+    },
+    "Matric": {
+      "add": 22,
+      "del": 0
+    },
+    "cf_ai_internet_guardian": {
+      "add": 5668,
+      "del": 1154
+    },
+    "Aegis": {
+      "add": 3468,
+      "del": 1
+    },
+    "Bezi": {
+      "add": 42040,
+      "del": 4124
+    },
+    "Atlas": {
+      "add": 123633,
+      "del": 398
+    },
+    "Journal": {
+      "add": 5012,
+      "del": 265
+    },
+    "Blindspot": {
+      "add": 1714,
+      "del": 0
+    },
+    "A-proposal": {
+      "add": 3786,
+      "del": 70
+    },
+    "Aplus-backend": {
+      "add": 15827,
+      "del": 5141
+    },
+    "Vigil": {
+      "add": 8787,
+      "del": 133
+    },
+    "a_plus_tutorial_app": {
+      "add": 40474,
+      "del": 10154
+    },
+    "ai-experts-assignment-3": {
+      "add": 608,
+      "del": 7
+    },
+    "ace_documentation": {
+      "add": 636,
+      "del": 97
+    },
+    "sanqa": {
+      "add": 151787,
+      "del": 44227
+    },
+    "portfolio-2.0": {
+      "add": 13733,
+      "del": 153
+    },
+    "odysseus": {
+      "add": 431405,
+      "del": 33743
+    }
+  },
+  "stats": {
+    "repo_data": "52",
+    "contrib_data": "8",
+    "commit_data": "6,441",
+    "follower_data": "17",
+    "loc_data": "959,090",
+    "loc_add": "1,996,270",
+    "loc_del": "1,037,180"
+  }
+}
